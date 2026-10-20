@@ -20,3 +20,9 @@ Em desenvolvimento — fase inicial de planejamento.
 - Consulta de horários disponíveis
 - Reserva de horários com prevenção de conflitos
 - Cancelamento de reservas
+
+## Modelagem do Banco de Dados
+
+![Diagrama do banco de dados](docs/database/database_schema.png)
+
+- [Consultar código-fonte (DBML)](docs/database/database_schema.dbml)
